@@ -4,7 +4,7 @@ This is a Discord bot made with the purpose of responding to users with the cour
 
 ***
 
-# How To
+## How To
 
 Two commands:
 
@@ -14,7 +14,7 @@ Two commands:
   
  ***
  
- # Course Catalog
+## Course Catalog
  
 The course catalog was made through web scraping with [selenium](https://www.selenium.dev/) on the [aurora](https://aurora.umanitoba.ca/banprod/bwckctlg.p_disp_cat_term_date) website.
 
@@ -30,7 +30,7 @@ Courses.json consists of:
 
 ***
 
-# Run
+## Run
 
 roBot can be ran through any cloud services of your choosing or your own pc. You can find other ways.
 I am currently running this bot on [Google Cloud Services](https://cloud.google.com/) for a couple private servers, but initially I used [replit](https://replit.com/~).
@@ -43,7 +43,7 @@ my_token = os.environ['TOKEN']
 
 ***
 
-# Built Using
+## Built Using
 
 + [Python 3.9.7](https://www.python.org/downloads/)
 + [selenium 3.141](https://www.selenium.dev/documentation/)
