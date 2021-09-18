@@ -43,8 +43,9 @@ my_token = os.environ['TOKEN']
 
 ***
 
-# Built With
+# Built Using
 
 + [Python 3.9.7](https://www.python.org/downloads/)
 + [selenium 3.141](https://www.selenium.dev/documentation/)
 + [Discord 1.7.3](https://discordpy.readthedocs.io/en/stable/)
++ [VSCode 1.60.1](https://code.visualstudio.com/)
