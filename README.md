@@ -1,6 +1,6 @@
 # roBot
 
-This is a Discord bot made with the purpose of responding to users with the course information of the course they requested.
+This is a Discord bot made with the purpose of responding to users with the course information of the course requested.
 
 ***
 
