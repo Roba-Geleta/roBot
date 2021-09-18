@@ -35,6 +35,12 @@ Courses.json consists of:
 roBot can be ran through any cloud services of your choosing or your own pc. You can find other ways.
 I am currently running this bot on [Google Cloud Services](https://cloud.google.com/) for a couple private servers, but initially I used [replit](https://replit.com/~).
 
+Code within main.py for the purpose of using it in replit:
+```python
+import os
+my_token = os.environ['TOKEN']
+```
+
 ***
 
 # Built With
