@@ -14,9 +14,6 @@ with open('config.json', 'r') as file:
 
 my_token = my_token.get("TOKEN")
 
-print(my_token)
-
-
 #used to verify user input is an integer
 def is_Integer(num):
     check = True
