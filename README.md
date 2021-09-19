@@ -18,6 +18,8 @@ Two commands:
  
 The course catalog was made through web scraping with [selenium](https://www.selenium.dev/) on the [aurora](https://aurora.umanitoba.ca/banprod/bwckctlg.p_disp_cat_term_date) website.
 
+>[Code for the web scrapper](https://github.com/Roba-Geleta/Aurora-Selenium-Scrape)
+
 Courses.json consists of:
 
 1. Keys in the form of course name. For this bot, the short hand name of the course is accepted.
